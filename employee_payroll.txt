@@ -46,3 +46,17 @@ PF Deduction: 3840
 Tax Deduction: 600
 Total Deduction: 4440
 Net Salary: 38960
+
+Employee ID: EMP004
+Employee Name: Sneha Rao
+Department: Marketing
+Designation: Marketing Executive
+Basic Salary: 27000
+HRA: 5400
+DA: 2700
+Other Allowance: 1500
+Gross Salary: 36600
+PF Deduction: 3240
+Tax Deduction: 300
+Total Deduction: 3540
+Net Salary: 33060
