@@ -1,0 +1,48 @@
+EMPLOYEE PAYROLL DETAILS
+========================
+
+Employee ID: EMP001
+Employee Name: Rahul Kumar
+Department: IT
+Designation: Software Developer
+Basic Salary: 30000
+HRA: 6000
+DA: 3000
+Other Allowance: 2000
+Gross Salary: 41000
+PF Deduction: 3600
+Tax Deduction: 500
+Total Deduction: 4100
+Net Salary: 36900
+
+--------------------------------
+
+Employee ID: EMP002
+Employee Name: Priya Sharma
+Department: HR
+Designation: HR Executive
+Basic Salary: 28000
+HRA: 5600
+DA: 2800
+Other Allowance: 1600
+Gross Salary: 38000
+PF Deduction: 3360
+Tax Deduction: 400
+Total Deduction: 3760
+Net Salary: 34240
+
+--------------------------------
+
+Employee ID: EMP003
+Employee Name: Arjun Reddy
+Department: Finance
+Designation: Accountant
+Basic Salary: 32000
+HRA: 6400
+DA: 3200
+Other Allowance: 1800
+Gross Salary: 43400
+PF Deduction: 3840
+Tax Deduction: 600
+Total Deduction: 4440
+Net Salary: 38960
